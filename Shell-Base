@@ -68,7 +68,7 @@ informacoes=("autor" "e_mail" "homepage" "dir_template" "nome_do_programa" "exte
 questionario=("Autor" "E-mail" "Homepage" "Diretório do template" "Nome do programa" "Extensao" "Interpretador" "Versão" "Licença" "Pequena descrição")
 
 # Vetor contendo respostas padrão para autopreenchimento do questionário que será exibido para o usuário.
-autopreenchimento=("Jefferson Rocha" "lrcjefferson@gmail.com" "https://slackjeff.github.io" "" "" "sh" "bash" "1.0.0" "MIT" "")
+autopreenchimento=("Vinicius Lopes" "vinicius@viniciusalopes.com.br" "https://vovolinux.com.br" "" "" "sh" "bash" "1.0.0" "MIT" "")
 
 #------------------------------ DECORATIONS TTY ------------------------------->
 # SOURCES: 
